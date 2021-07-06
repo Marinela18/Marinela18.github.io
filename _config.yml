@@ -42,7 +42,7 @@ social:
     - https://github.com/marinela18       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/marinela-roca-638859140/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -75,7 +75,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: "/assets/mari-icon.JPG"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
